@@ -1,0 +1,9 @@
+gradio
+langchain==0.1.16
+langchain-core==0.1.45
+langchain-community==0.0.34
+langchain-google-genai==1.0.3
+chromadb
+google-generativeai
+
+
