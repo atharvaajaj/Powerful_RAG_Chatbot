@@ -32,7 +32,7 @@ Leveraging state-of-the-art retrieval-augmented generation (RAG) techniques, it 
 ├── reviews.csv          # Patient review dataset (with metadata)
 ├── chroma_data_gg/      # Persisted Chroma vector database
 └── README.md            # Project documentation
-
+```
 ---
 
 ## 🔧 Setup & Usage  
