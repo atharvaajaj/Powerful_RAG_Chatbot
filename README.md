@@ -33,7 +33,7 @@ Leveraging state-of-the-art retrieval-augmented generation (RAG) techniques, it 
 ├── chroma_data_gg/      # Persisted Chroma vector database
 └── README.md            # Project documentation
 
-
+---
 
 ## 🔧 Setup & Usage  
 1. Clone the repository:  
