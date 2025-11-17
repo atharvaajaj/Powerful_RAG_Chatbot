@@ -48,11 +48,75 @@ export GOOGLE_API_KEY=your_google_gemini_api_key
    
 ---
 
-## 📈 Example Use Cases
+## 🔹 Hospital Experience Questions
 
-💬 *“What do patients think about Dr. Sharma’s communication style?”*  
-💬 *“Which hospital received the most positive feedback for cleanliness?”*  
-💬 *“Are there recurring complaints about waiting times?”*
+-   **How do patients describe their experience at Wallace-Hamilton Hospital?**
+    
+-   **Summarize what patients say about staff behavior.**
+    
+-   **What positive experiences do patients frequently mention?**
+    
+-   **What concerns or dislikes do patients mention in the reviews?**
+    
+-   **Are there reviews about hospital cleanliness or hygiene?**
+    
+
+----------
+
+## 🔹 Service & Process Questions
+
+-   **Do reviews mention good communication from the medical team?**
+    
+-   **Are there any comments about patient safety?**
+    
+-   **Find reviews mentioning waiting time.**
+    
+-   **What do patients say about the treatment they received?**
+    
+
+----------
+
+## 🔹 Sentiment & Theme Questions
+
+-   **Give examples of highly positive patient reviews.**
+    
+-   **Find reviews showing mixed or neutral experiences.**
+    
+-   **What are common themes in positive reviews?**
+    
+-   **What themes appear in critical or negative reviews?**
+    
+
+----------
+
+## 🔹 Patient-Experience Breakdown
+
+-   **Summarize patient feedback about staff behavior.**
+    
+-   **What do patients say about the quality of care?**
+    
+-   **Do reviews mention doctor attentiveness or empathy?**
+    
+-   **Are patients satisfied with their overall experience?**
+    
+
+----------
+
+## 🧪 Recruiter-Friendly Questions (Grounded & Prompt-Compatible)
+
+These help interviewers test your chatbot’s reliability and grounding behavior.
+
+-   **Provide 3 reviews that show patients were satisfied with their care.**
+    
+-   **Extract reviews that mention excellent service from hospital staff.**
+    
+-   **Summarize the main strengths of the hospital based on reviews.**
+    
+-   **List weaknesses mentioned by patients (only if present in reviews).**
+    
+-   **Give a factual summary of patient opinions about the hospital.**
+    
+-   **Show direct quotes describing the medical team.**
 
 ---
 
