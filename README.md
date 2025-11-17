@@ -25,11 +25,12 @@ Leveraging state-of-the-art retrieval-augmented generation (RAG) techniques, it 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/890af1ff-d283-4165-a318-2e98d983783f" />
 
 ## 📁 Repository Structure  
-├── app.py # Main chatbot application code
-├── requirements.txt # Dependencies for installation
-├── reviews.csv # Patient review data (with metadata)
-├── chroma_data_gg/ # Persisted vector database folder
-└── README.md # Project overview & usage
+├── app.py               # Main chatbot application
+├── requirements.txt     # Python dependencies
+├── reviews.csv          # Patient review dataset (with metadata)
+├── chroma_data_gg/      # Persisted Chroma vector database
+└── README.md            # Project documentation
+
 
 ## 🔧 Setup & Usage  
 1. Clone the repository:  
