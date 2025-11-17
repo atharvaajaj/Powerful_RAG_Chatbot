@@ -24,12 +24,15 @@ Leveraging state-of-the-art retrieval-augmented generation (RAG) techniques, it 
 8. **Hosting**: Deployed on Hugging Face Spaces for easy sharing and live demonstration.
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/890af1ff-d283-4165-a318-2e98d983783f" />
 
-## 📁 Repository Structure  
+## 📁 Repository Structure
+
+```text
 ├── app.py               # Main chatbot application
 ├── requirements.txt     # Python dependencies
 ├── reviews.csv          # Patient review dataset (with metadata)
 ├── chroma_data_gg/      # Persisted Chroma vector database
 └── README.md            # Project documentation
+
 
 
 ## 🔧 Setup & Usage  
